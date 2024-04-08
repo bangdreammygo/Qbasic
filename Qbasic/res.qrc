@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>visual-basic-logo-png-1.jpg</file>
+    </qresource>
+</RCC>
